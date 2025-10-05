@@ -1,14 +1,3 @@
-{
-  "name": "com.unity.rendering.denoising",
-  "description": "Unity Denoising exposes a common high level denoising API for a number of different high quality denoising backends that can be used in the HDRP path tracer, in user scripts or the Unity Progressive Lightmapper",
-  "unity": "2022.3",
-  "unityRelease": "0f1",
-  "version": "1.0.5",
-  "displayName": "Unity Denoising",
-  "dependencies": {},
-  "keywords": [
-    "graphics",
-    "denoising"
-  ],
-  "_fingerprint": "5af22b1a6a916381834572adedcacefc118e26c7"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dbbe559b6909ca9f49f457949a60d7a8924609bfc4fea6c171231bf4cf66997
+size 518

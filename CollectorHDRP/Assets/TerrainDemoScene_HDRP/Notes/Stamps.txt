@@ -1,3 +1,3 @@
-The Unity [Terrain_Tools](https://docs.unity3d.com/Packages/com.unity.terrain-tools@4.0/manual/index) package allows you to create your own [brushes](https://docs.unity3d.com/Packages/com.unity.terrain-tools@4.0/manual/brushes.html) for painting Terrain.  
-
-This demo scene package includes a number of new brushes with high-quality masks.  Click [here](Assets/TerrainDemoScene_HDRP/Terrain/Brushes/Terrainstamp_Canyon01_Brush.brush) to see them in the Project window.  After we imported the Terrain, we used these stamps to add additional detail and visual interest.  We created both the dry riverbed in the foreground and the ridged hills in the distance using stamps from the sample package.  The newly redesigned *Stamp* *Terrain* tool provided a quick way to blend large stamps into the terrain seamlessly.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cb3bb89eb0469b397e368e5d36b4bd9f0aee50100690fa7417b5979d93c0fb6
+size 813
